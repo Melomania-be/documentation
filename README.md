@@ -1,4 +1,4 @@
-# Documentation
+# Documentations
 | Documentation   | Comment           | Link  |
 | --------------- |:-----------------:| :----:|
 | Back            | This is the API   | [click](https://github.com/Melomania-be/back/wiki) |
