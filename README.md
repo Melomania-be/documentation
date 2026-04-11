@@ -7,3 +7,4 @@
 | Front           | Wiki | [click](https://github.com/Melomania-be/front/wiki) |
 | Database        | This is the easy database install  | [click](https://github.com/Melomania-be/database) |
 | Deployements    | This is the deployement process  | [click](https://github.com/Melomania-be/documentation/wiki/Deployements) |
+| Database migration theory    | How to migrate the database  | [click](https://github.com/Melomania-be/documentation/wiki/Database-migration-theory) |
